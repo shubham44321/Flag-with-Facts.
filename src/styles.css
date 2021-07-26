@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.fact {
+  text-align: left;
+}
+.fact-div {
+  margin-left: 10%;
+  margin-right: 10%;
+}
